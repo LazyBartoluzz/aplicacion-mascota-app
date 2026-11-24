@@ -1,0 +1,1 @@
+<resources><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"><item name="colorPrimary">@color/verde</item><item name="colorPrimaryDark">@color/verde_oscuro</item><item name="android:fontFamily">sans</item></style></resources>
